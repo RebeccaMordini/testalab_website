@@ -27,7 +27,7 @@
             'name'      => 'Francesca Pennacchietti',
             'position'  => 'Researcher',
             'photo'     => 'assets/people/team/Francesca.jpg', 
-            'shortbio'  => 'I am a biophysics with an interest in fluorescence microscopy. My research focus is in the investigation of the tight link that exist between photophysical complexity of fluorophore and super resolution techniques.',
+            'shortbio'  => 'I am a biophysics with an interest in fluorescence microscopy. My research focus is in the investigation of the tight link that exists between photophysical complexity of fluorophore and super resolution techniques.',
             'email'     => 'francesca.pennacchietti@scilifelab.se'
         ),
         array(
@@ -112,7 +112,8 @@
             'name'      => 'Rebecca Mordini',
             'position'  => 'PhD Student',
             'photo'     => '',
-            'shortbio'  => '',
+            'shortbio'  => 'My education background is in physics and biophysics. As a PhD student, I am interested in exploring the photophysical properties of reversibly switchable fluorescent proteins, in particular under two-photon illumination.
+             The aim of my project is to implement advanced imaging strategies that utilize photoswitching transitions to enable super-resolution imaging into biological tissues.',
             'email'     => 'rebecca.mordini@scilifelab.se'
         ),
         array(
@@ -124,7 +125,7 @@
         ),
         array(
             'name'      => 'Karl Höjlund',
-            'position'  => 'Reseach Engineer',
+            'position'  => 'Research Engineer',
             'photo'     => '',
             'shortbio'  => '',
             'email'     => 'karl.hojlund@scilifelab.se'
