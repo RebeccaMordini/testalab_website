@@ -22,3 +22,11 @@ Aurelien Barbotin, Master Student<br>
 Eleonora Uriati, Master Student<br>
 Francesco Fersini, Master Student<br>
 Shusei Masuda, Master Student<br>
+Andreas Bodén, Postdoctoral Researcher<br>
+Mariline Silva, Postdoctoral Researcher<br>
+Simone Ezendam, Postdoctoral Researcher<br>
+Alessandro Scacco, Master Student<br>
+Clara Trellu, Master Student<br>
+Katarzyna Glinka, Intern<br>
+Jesper Eiderbäck, Master Student<br>
+Klemen Hafner, Intern<br>

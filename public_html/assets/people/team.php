@@ -40,23 +40,6 @@
             'email'     => 'andrea.volpato@scilifelab.se'
         ),
         array(
-            'name'      => 'Mariline Silva',
-            'position'  => 'Postdoctoral Researcher',
-            'photo'     => 'assets/people/team/Mariline.jpg', 
-            'shortbio'  => 'I am a neurobiologist interested in studying the dynamic processes elicited by synaptic activity.
-            Currently, I am using advanced labelling techniques and live cell optical nanoscopy to investigate the effects of synaptic activity in the organization and distribution of synaptic organelles with high spatial-temporal resolution.',
-            'email'     => 'mariline.silva@scilifelab.se'
-        ),
-        array(
-            'name'      => 'Andreas Bodén',
-            'position'  => 'Postdoctoral Researcher',
-            'photo'     => 'assets/people/team/Andreas.jpg', 
-            'shortbio'  => 'With a background in biomedical and electrical engineering I joined the Testa group in 2016 for my master thesis.
-            I later enrolled as a PhD student and have since then worked with the design and implementation of our parallelized RESOLFT microscopes together with simulations and theoretical modelling of modern super resolution imaging systems.
-            With an interest in both the theoretical and practical I hope to contribute to a more accurate and holistic understanding of the imaging systems we use and the data they produce.',
-            'email'     => 'andreas.boden@scilifelab.se'
-        ),
-        array(
             'name'      => 'Jonatan Alvelid',
             'position'  => 'Postdoctoral Researcher',
             'photo'     => 'assets/people/team/Jonatan.jpg', 
@@ -79,6 +62,21 @@
             'shortbio'  => ' ',
             'email'     => 'abigail.illand@scilifelab.se'
         ),
+        array(
+            'name'      => 'Lenny Reinkensmeier',
+            'position'  => 'Postdoctoral Researcher',
+            'photo'     => '',
+            'shortbio'  => '',
+            'email'     => 'lenny.reinkensmeier@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Jelle Schipper',
+            'position'  => 'Postdoctoral Researcher',
+            'photo'     => '',
+            'shortbio'  => '',
+            'email'     => 'jelle.schipper@scilifelab.se'
+        ),
+
         // Students
         array(
             'name'      => 'Guillem Marín Aguilera',
@@ -107,8 +105,29 @@
             'name'      => 'Emma Pönniäinen',
             'position'  => 'PhD Student',
             'photo'     => '',
-            'shortbio'  => ' ',
+            'shortbio'  => '',
             'email'     => 'emma.ponniainen@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Rebecca Mordini',
+            'position'  => 'PhD Student',
+            'photo'     => '',
+            'shortbio'  => '',
+            'email'     => 'rebecca.mordini@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Alberto Morgantini',
+            'position'  => 'PhD Student',
+            'photo'     => '',
+            'shortbio'  => '',
+            'email'     => 'alberto.morgantini@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Karl Höjlund',
+            'position'  => 'Reseach Engineer',
+            'photo'     => '',
+            'shortbio'  => '',
+            'email'     => 'karl.hojlund@scilifelab.se'
         ),
     );
 ?>
