@@ -73,13 +73,6 @@
             'email'     => 'ruizhe.lin@scilifelab.se'
         ),
         array(
-            'name'      => 'Simone Ezendam',
-            'position'  => 'Postdoctoral Researcher',
-            'photo'     => 'assets/people/team/Simone.jpg', 
-            'shortbio'  => ' ',
-            'email'     => 'simone.ezendam@scilifelab.se'
-        ),
-        array(
             'name'      => 'Abigail Illand',
             'position'  => 'Postdoctoral Researcher',
             'photo'     => 'assets/people/team/Abigail.jpg', 
@@ -109,6 +102,13 @@
             'shortbio'  => "My research background is optical engineering and nanophotonics. I joined the Testa lab as a PhD student to develop novel illumination patterns for RESOLFT microscopy. 
             My project focuses on building next generation super-resolution system for volumetric imaging based on single objective light-sheet microscopy and photo-switching.",
             'email'     => 'yongyue.qian@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Emma Pönniäinen',
+            'position'  => 'PhD Student',
+            'photo'     => '',
+            'shortbio'  => ' ',
+            'email'     => 'emma.ponniainen@scilifelab.se'
         ),
     );
 ?>
