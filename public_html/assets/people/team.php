@@ -126,8 +126,9 @@
         array(
             'name'      => 'Karl Höjlund',
             'position'  => 'Research Engineer',
-            'photo'     => '',
-            'shortbio'  => '',
+            'photo'     => 'assets/people/team/Kalle.png',
+            'shortbio'  => 'I have a background in electrical engineering and engineering physics with a focus on theoretical physics. I joined the Testa group in 2025 for my masters thesis.
+            My main interests are in image processing and developing imaging processing tools, and I am currently working within the group as a research engineer with a primary focus on further development of real-time image reconstruction of parallelized RESOLFT super-resolution imaging.',
             'email'     => 'karl.hojlund@scilifelab.se'
         ),
     );
