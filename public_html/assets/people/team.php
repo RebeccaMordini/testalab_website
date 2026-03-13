@@ -59,7 +59,7 @@
             'name'      => 'Abigail Illand',
             'position'  => 'Postdoctoral Researcher',
             'photo'     => 'assets/people/team/Abigail.jpg', 
-            'shortbio'  => ' ',
+            'shortbio'  => 'I am an optical engineer by training, with a strong interest in developing new microscopy techniques. My current focus is on advancing volumetric imaging tools to achieve higher resolution and, through multiplexing strategies, gain deeper insights into cell organization.',
             'email'     => 'abigail.illand@scilifelab.se'
         ),
         array(
