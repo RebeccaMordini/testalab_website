@@ -29,4 +29,4 @@ Alessandro Scacco, Master Student<br>
 Clara Trellu, Master Student<br>
 Katarzyna Glinka, Intern<br>
 Jesper Eiderbäck, Master Student<br>
-Klemen Hafner, Intern<br>
+Abigail Illand, Postdoctoral Researcher<br>

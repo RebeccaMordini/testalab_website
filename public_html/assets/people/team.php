@@ -65,8 +65,8 @@
         array(
             'name'      => 'Lenny Reinkensmeier',
             'position'  => 'Postdoctoral Researcher',
-            'photo'     => '',
-            'shortbio'  => '',
+            'photo'     => 'assets/people/team/Lenny.jpeg',
+            'shortbio'  => 'I’m a postdoctoral researcher with a background in super-resolution microscopy, developing advanced imaging technologies integrating custom instrumentation, computational imaging and quantitative analysis. My work focuses on intelligent microscopy and high-resolution imaging strategies for studying nanoscale biological processes.',
             'email'     => 'lenny.reinkensmeier@scilifelab.se'
         ),
         array(
@@ -119,8 +119,9 @@
         array(
             'name'      => 'Alberto Morgantini',
             'position'  => 'PhD Student',
-            'photo'     => '',
-            'shortbio'  => '',
+            'photo'     => 'assets/people/team/Alberto.png',
+            'shortbio'  => 'I am a biophysicist with a background in physics. I am a PhD student at Testalab. In my previous work, I focused on single-molecule techniques, and I am now working to develop techniques that extend optical microscopy to thick samples such as tissues or organoids.
+            The main ingredients of my study are adaptive optics, reversibly photoswitchable fluorescent proteins and polarised light, and I am interested in all stages of the experimental process, from setup to data analysis.',
             'email'     => 'alberto.morgantini@scilifelab.se'
         ),
         array(
@@ -130,6 +131,13 @@
             'shortbio'  => 'I have a background in electrical engineering and engineering physics with a focus on theoretical physics. I joined the Testa group in 2025 for my masters thesis.
             My main interests are in image processing and developing imaging processing tools, and I am currently working within the group as a research engineer with a primary focus on further development of real-time image reconstruction of parallelized RESOLFT super-resolution imaging.',
             'email'     => 'karl.hojlund@scilifelab.se'
+        ),
+        array(
+            'name'      => 'Klemen Hafner',
+            'position'  => 'Student',
+            'photo'     => '',
+            'shortbio'  => 'I am an electrical engineering student interested in continuing my studies in biomedical engineering. I came to TestaLab for an Erasmus exchange to work on a project involving correlative super resolution light microscopy and cryogenic electron tomography.',
+            'email'     => 'klemen.hafner@scilifelab.se'
         ),
     );
 ?>
