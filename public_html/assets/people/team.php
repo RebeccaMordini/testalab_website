@@ -55,13 +55,7 @@
             'shortbio'  => 'I am an optical engineer with a background in physics. I am interested in developing optical imaging tools, with particular focus on super-resolution and adaptive optics techniques. I mainly work on incorporating the adaptive optics module with the optical fluorescence nanoscopy to extend the super-resolution imaging into deep-tissue regions.',
             'email'     => 'ruizhe.lin@scilifelab.se'
         ),
-        array(
-            'name'      => 'Abigail Illand',
-            'position'  => 'Postdoctoral Researcher',
-            'photo'     => 'assets/people/team/Abigail.jpg', 
-            'shortbio'  => 'I am an optical engineer by training, with a strong interest in developing new microscopy techniques. My current focus is on advancing volumetric imaging tools to achieve higher resolution and, through multiplexing strategies, gain deeper insights into cell organization.',
-            'email'     => 'abigail.illand@scilifelab.se'
-        ),
+
         array(
             'name'      => 'Lenny Reinkensmeier',
             'position'  => 'Postdoctoral Researcher',
